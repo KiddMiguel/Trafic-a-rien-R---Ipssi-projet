@@ -1,0 +1,11 @@
+tailnum,n_vols,x,year,type,manufacturer,model,engines,seats,speed,engine
+N136DL,1,117,1991,Fixed wing multi engine,BOEING,767-332,2,330,NA,Turbo-fan
+N137DL,1,122,1991,Fixed wing multi engine,BOEING,767-332,2,330,NA,Turbo-fan
+N14628,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+N206UA,1,439,1999,Fixed wing multi engine,BOEING,777-222,2,400,NA,Turbo-fan
+N26906,1,567,2012,Fixed wing multi engine,BOEING,787-8,2,260,NA,Turbo-fan
+N27901,1,596,2012,Fixed wing multi engine,BOEING,787-8,2,260,NA,Turbo-fan
+N287AT,1,617,2006,Fixed wing multi engine,BOEING,737-76N,2,149,NA,Turbo-fan
+N302AS,1,654,2003,Fixed wing multi engine,BOEING,737-990,2,149,NA,Turbo-jet
+N303AS,1,657,2001,Fixed wing multi engine,BOEING,737-990,2,149,NA,Turbo-jet
+N305AS,1,662,2001,Fixed wing multi engine,BOEING,737-990,2,149,NA,Turbo-jet

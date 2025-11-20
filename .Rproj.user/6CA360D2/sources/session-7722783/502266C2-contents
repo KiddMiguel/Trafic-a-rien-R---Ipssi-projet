@@ -1,0 +1,23 @@
+source("scripts/01_cleaning.R")
+
+# Générer le .md récapitulatif mission1_q1 si possible
+library(knitr)
+
+csv_path <- "outputs/tableaux/missions1_question_1/mission1_q1.csv"
+md_path  <- "outputs/tableaux/missions1_question_1/mission1_q1.md"
+dir.create(dirname(md_path), recursive = TRUE, showWarnings = FALSE)
+
+# Charger mission1_q1 depuis l'environnement si disponible, sinon lire le CSV
+if (!exists("mission1_q1")) {
+  if (file.exists(csv_path)) {
+    mission1_q1 <- readr::read_csv(csv_path, show_col_types = FALSE)
+  } else {
+    message("mission1_q1 introuvable et CSV absent : aucune sortie .md créée.")
+  }
+}
+
+if (exists("mission1_q1")) {
+  md <- knitr::kable(mission1_q1, format = "markdown")
+  writeLines(md, md_path)
+  message("Fichier .md créé : ", md_path)
+}

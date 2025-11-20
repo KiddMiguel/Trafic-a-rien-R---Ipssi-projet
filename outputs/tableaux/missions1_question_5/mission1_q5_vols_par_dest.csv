@@ -1,0 +1,104 @@
+dest,n_vols,name,tzone
+ATL,12946,Hartsfield Jackson Atlanta Intl,America/New_York
+ORD,12654,Chicago Ohare Intl,America/Chicago
+LAX,11895,Los Angeles Intl,America/Los_Angeles
+BOS,11560,General Edward Lawrence Logan Intl,America/New_York
+MCO,10637,Orlando Intl,America/New_York
+CLT,10448,Charlotte Douglas Intl,America/New_York
+SFO,9729,San Francisco Intl,America/Los_Angeles
+FLL,9443,Fort Lauderdale Hollywood Intl,America/New_York
+MIA,8938,Miami Intl,America/New_York
+DCA,7386,Ronald Reagan Washington Natl,America/New_York
+DTW,7009,Detroit Metro Wayne Co,America/New_York
+DFW,6657,Dallas Fort Worth Intl,America/Chicago
+RDU,6198,Raleigh Durham Intl,America/New_York
+TPA,5682,Tampa Intl,America/New_York
+IAH,5438,George Bush Intercontinental,America/Chicago
+DEN,5430,Denver Intl,America/Denver
+MSP,5361,Minneapolis St Paul Intl,America/Chicago
+PBI,5269,Palm Beach Intl,America/New_York
+BNA,4667,Nashville Intl,America/Chicago
+LAS,4409,Mc Carran Intl,America/Los_Angeles
+SJU,4321,NA,NA
+IAD,4243,Washington Dulles Intl,America/New_York
+PHX,3567,Phoenix Sky Harbor Intl,America/Phoenix
+BUF,3534,Buffalo Niagara Intl,America/New_York
+CLE,3488,Cleveland Hopkins Intl,America/New_York
+STL,3293,Lambert St Louis Intl,America/Chicago
+MDW,3096,Chicago Midway Intl,America/Chicago
+RSW,2963,Southwest Florida Intl,America/New_York
+CVG,2953,Cincinnati Northern Kentucky Intl,America/New_York
+MSY,2831,Louis Armstrong New Orleans Intl,America/Chicago
+SEA,2736,Seattle Tacoma Intl,America/Los_Angeles
+CMH,2609,Port Columbus Intl,America/New_York
+PIT,2173,Pittsburgh Intl,America/New_York
+MKE,2126,General Mitchell Intl,America/Chicago
+CHS,2046,Charleston Afb Intl,America/New_York
+BTV,2009,Burlington Intl,America/New_York
+JAX,2004,Jacksonville Intl,America/New_York
+SAN,2002,San Diego Intl,America/Los_Angeles
+SLC,1849,Salt Lake City Intl,America/Denver
+ROC,1830,Greater Rochester Intl,America/New_York
+AUS,1826,Austin Bergstrom Intl,America/Chicago
+RIC,1826,Richmond Intl,America/New_York
+PWM,1774,Portland Intl Jetport,America/New_York
+IND,1624,Indianapolis Intl,America/New_York
+HOU,1520,William P Hobby,America/Chicago
+MCI,1502,Kansas City Intl,America/Chicago
+BWI,1399,Baltimore Washington Intl,America/New_York
+MEM,1333,Memphis Intl,America/Chicago
+SYR,1296,Syracuse Hancock Intl,America/New_York
+PHL,1219,Philadelphia Intl,America/New_York
+ORF,1214,Norfolk Intl,America/New_York
+GSO,1199,Piedmont Triad,America/New_York
+DAY,1141,James M Cox Dayton Intl,America/New_York
+SRQ,944,Sarasota Bradenton Intl,America/New_York
+PDX,929,Portland Intl,America/Los_Angeles
+SDF,832,Louisville International Airport,America/New_York
+XNA,782,NW Arkansas Regional,America/Chicago
+MHT,751,Manchester Regional Airport,America/New_York
+BQN,678,NA,NA
+GSP,672,Greenville-Spartanburg International,America/New_York
+CAK,622,Akron Canton Regional Airport,America/New_York
+SNA,600,John Wayne Arpt Orange Co,America/Los_Angeles
+OMA,599,Eppley Afld,America/Chicago
+SAV,598,Savannah Hilton Head Intl,America/New_York
+GRR,589,Gerald R Ford Intl,America/New_York
+HNL,533,Honolulu Intl,Pacific/Honolulu
+SAT,511,San Antonio Intl,America/Chicago
+LGB,498,Long Beach,America/Los_Angeles
+TYS,481,Mc Ghee Tyson,America/New_York
+STT,443,NA,NA
+MSN,441,Dane Co Rgnl Truax Fld,America/Chicago
+ALB,386,Albany Intl,America/New_York
+DSM,386,Des Moines Intl,America/Chicago
+BDL,354,Bradley Intl,America/New_York
+PVD,331,Theodore Francis Green State,America/New_York
+BUR,281,Bob Hope,America/Los_Angeles
+PSE,275,NA,NA
+BGR,262,Bangor Intl,America/New_York
+OKC,258,Will Rogers World,America/Chicago
+SJC,239,Norman Y Mineta San Jose Intl,America/Los_Angeles
+TUL,239,Tulsa Intl,America/Chicago
+OAK,222,Metropolitan Oakland Intl,America/Los_Angeles
+BHM,215,Birmingham Intl,America/Chicago
+EGE,213,Eagle Co Rgnl,America/Denver
+SMF,201,Sacramento Intl,America/Los_Angeles
+AVL,173,Asheville Regional Airport,America/New_York
+ABQ,164,Albuquerque International Sunport,America/Denver
+CRW,138,Yeager,America/New_York
+ACK,92,Nantucket Mem,America/New_York
+CAE,90,Columbia Metropolitan,America/New_York
+ILM,89,Wilmington Intl,America/New_York
+MVY,70,Martha\\'s Vineyard,America/New_York
+MYR,58,Myrtle Beach Intl,America/New_York
+CHO,31,Charlottesville-Albemarle,America/New_York
+JAC,25,Jackson Hole Airport,America/Denver
+BZN,20,Gallatin Field,America/Denver
+PSP,19,Palm Springs Intl,America/Los_Angeles
+EYW,17,Key West Intl,America/New_York
+TVC,16,Cherry Capital Airport,America/New_York
+HDN,15,Yampa Valley,America/Denver
+MTJ,15,Montrose Regional Airport,America/Denver
+SBN,4,South Bend Rgnl,America/New_York
+LEX,1,Blue Grass,America/New_York

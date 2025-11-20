@@ -1,0 +1,11 @@
+tailnum,n_vols,x,year,type,manufacturer,model,engines,seats,speed,engine
+N725MQ,443,NA,NA,NA,NA,NA,NA,NA,NA,NA
+N723MQ,394,NA,NA,NA,NA,NA,NA,NA,NA,NA
+N713MQ,385,NA,NA,NA,NA,NA,NA,NA,NA,NA
+N722MQ,378,NA,NA,NA,NA,NA,NA,NA,NA,NA
+N711MQ,376,2229,1976,Fixed wing multi engine,GULFSTREAM AEROSPACE,G1159B,2,22,NA,Turbo-jet
+N258JB,332,543,2006,Fixed wing multi engine,EMBRAER,ERJ 190-100 IGW,2,20,NA,Turbo-fan
+N353JB,316,837,2012,Fixed wing multi engine,EMBRAER,ERJ 190-100 IGW,2,20,NA,Turbo-fan
+N351JB,310,825,2012,Fixed wing multi engine,EMBRAER,ERJ 190-100 IGW,2,20,NA,Turbo-fan
+N542MQ,310,NA,NA,NA,NA,NA,NA,NA,NA,NA
+N228JB,309,482,2006,Fixed wing multi engine,EMBRAER,ERJ 190-100 IGW,2,20,NA,Turbo-fan

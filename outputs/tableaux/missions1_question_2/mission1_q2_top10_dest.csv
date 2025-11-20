@@ -1,0 +1,11 @@
+dest,n_vols,pct,x1,name,lat,lon,alt,tz,dst,tzone
+ATL,12946,5.12,153,Hartsfield Jackson Atlanta Intl,33.636719,-84.428067,1026,-5,A,America/New_York
+ORD,12654,5.01,1026,Chicago Ohare Intl,41.978603,-87.904842,668,-6,A,America/Chicago
+LAX,11895,4.71,770,Los Angeles Intl,33.942536,-118.408075,126,-8,A,America/Los_Angeles
+BOS,11560,4.57,223,General Edward Lawrence Logan Intl,42.364347,-71.005181,19,-5,A,America/New_York
+MCO,10637,4.21,852,Orlando Intl,28.429394,-81.308994,96,-5,A,America/New_York
+CLT,10448,4.13,306,Charlotte Douglas Intl,35.214,-80.943139,748,-5,A,America/New_York
+SFO,9729,3.85,1216,San Francisco Intl,37.618972,-122.374889,13,-8,A,America/Los_Angeles
+FLL,9443,3.74,488,Fort Lauderdale Hollywood Intl,26.072583,-80.15275,9,-5,A,America/New_York
+MIA,8938,3.54,876,Miami Intl,25.79325,-80.290556,8,-5,A,America/New_York
+DCA,7386,2.92,357,Ronald Reagan Washington Natl,38.852083,-77.037722,15,-5,A,America/New_York

@@ -1,0 +1,11 @@
+dest,n_vols,pct,x1,name,lat,lon,alt,tz,dst,tzone
+LEX,1,4e-4,782,Blue Grass,38.0365,-84.605889,979,-5,A,America/New_York
+SBN,4,0.0016,1192,South Bend Rgnl,41.708661,-86.31725,799,-5,A,America/New_York
+HDN,15,0.0059,582,Yampa Valley,40.481181,-107.21766,6602,-7,A,America/Denver
+MTJ,15,0.0059,927,Montrose Regional Airport,38.509794,-107.894242,5759,-7,A,America/Denver
+TVC,16,0.0063,1337,Cherry Capital Airport,44.741445,-85.582235,624,-5,A,America/New_York
+EYW,17,0.0067,462,Key West Intl,24.556111,-81.759556,3,-5,A,America/New_York
+PSP,19,0.0075,1108,Palm Springs Intl,33.829667,-116.506694,477,-8,A,America/Los_Angeles
+BZN,20,0.0079,250,Gallatin Field,45.777643,-111.160151,4500,-7,A,America/Denver
+JAC,25,0.0099,684,Jackson Hole Airport,43.607333333,-110.73775,6451,-7,A,America/Denver
+CHO,31,0.0123,288,Charlottesville-Albemarle,38.138639,-78.452861,639,-5,A,America/New_York
