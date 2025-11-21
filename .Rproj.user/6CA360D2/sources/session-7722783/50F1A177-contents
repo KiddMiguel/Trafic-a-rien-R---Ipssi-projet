@@ -20,16 +20,16 @@ na_airlines <- na_summary(airlines)
 na_planes   <- na_summary(planes)
 na_weather  <- na_summary(weather)
 
-na_flights
-na_airports
-na_airlines
-na_planes
-na_weather
+# na_flights
+# na_airports
+# na_airlines
+# na_planes
+# na_weather
 
 
 # 5. Vérifier les doublons éventuels
 
-nrow(flights) - nrow(distinct(flights))
+# nrow(flights) - nrow(distinct(flights))
 # nrow(airports) - nrow(distinct(airports))
 # nrow(airlines) - nrow(distinct(airlines))
 # nrow(planes) - nrow(distinct(planes))
@@ -77,8 +77,8 @@ flights <- flights |>
   )
 
 
-view(flights)
-view(airports)
-view(airlines)
-view(planes)
-view(weather)
+# view(flights)
+# view(airports)
+# view(airlines)
+# view(planes)
+# view(weather)

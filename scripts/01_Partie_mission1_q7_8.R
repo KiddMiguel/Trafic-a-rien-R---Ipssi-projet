@@ -1,4 +1,6 @@
-source("scripts/01_Partie_mission1_q5.R")
+# s'assurer que le dossier de sortie existe
+dir.create("outputs/tableaux/missions1_question_7_8", recursive = TRUE, showWarnings = FALSE)
+
 ### Question 6
 
 ## Prep : nb total d’aéroports d’origine et de destinations dans le dataset ----
@@ -84,3 +86,43 @@ write_csv(comp_orig_dest_table,
           "outputs/tableaux/missions1_question_6/mission1_q6_comp_origines_destinations.csv")
 write_csv(comp_not_all_origins,
           "outputs/tableaux/missions1_question_6/mission1_q6_comp_not_all_origins.csv")
+
+### Question 7
+
+## 7.1 Vols UA, AA et DL ----
+# UA = United Air Lines Inc.
+# AA = American Airlines Inc.
+# DL = Delta Air Lines Inc.
+vols_UA_AA_DL <- flights |>
+  filter(carrier %in% c("UA", "AA", "DL")) |>
+  summarise(
+    n_vols = n(),
+    .groups = "drop"
+  )
+
+tibble(
+  Description = "Vols UA, AA et DL",
+  Nombre_de_vols = vols_UA_AA_DL$n_vols
+) |> 
+  View(title = "Vols UA, AA et DL")
+
+write_csv(vols_UA_AA_DL, "outputs/tableaux/missions1_question_7_8/mission1_q8_vols_UA_AA_DL.csv")
+
+## 7.2 Destinations exclusives ----
+
+dest_exclusives <- flights |>
+  group_by(dest) |>
+  summarise(
+    n_vols = n(),
+    .groups = "drop"
+  ) |>
+  filter(n_vols == 1) |>
+  select(dest)
+
+tibble(
+  Description = "Destinations exclusives",
+  Destination = dest_exclusives$dest
+) |> 
+  View(title = "Destinations exclusives")
+
+write_csv(dest_exclusives, "outputs/tableaux/missions1_question_7_8/mission1_q7_dest_exclusives.csv")

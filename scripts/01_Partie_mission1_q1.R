@@ -1,5 +1,3 @@
-source("scripts/01_cleaning.R")
-
 ### partie 1
 
 # QUESTION 1 

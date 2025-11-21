@@ -1,5 +1,3 @@
-source("scripts/01_Partie_mission1_q2.R")
-
 ### Question 2 : aéroports, destinations et avions ----
 
 ## 2.1 Aéroport de départ le plus emprunté ----------------------

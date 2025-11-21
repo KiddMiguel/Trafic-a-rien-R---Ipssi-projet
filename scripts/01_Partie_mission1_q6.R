@@ -1,4 +1,3 @@
-source("scripts/01_Partie_mission1_q6.R")
 ### Question 7
 
 # Nombre de compagnies par destination

@@ -1,4 +1,3 @@
-source("scripts/01_Partie_mission1_q3.R")
 ### Question 4 : Houston + NYC → Seattle ----
 
 # 1) Trouver tous les vols ayant atterri à Houston (IAH ou HOU)

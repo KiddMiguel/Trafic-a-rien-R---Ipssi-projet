@@ -1,0 +1,86 @@
+# .gitignore pour projet R (TraficAirline)
+
+# Historique et sessions R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# Variables d'environnement / profils locaux (souvent sensibles)
+.Renviron
+.Renviron.local
+.Rprofile
+.Rprofile.local
+
+# Gestionnaires d'environnement
+packrat/
+renv/library/
+renv/staging/
+renv/cache/
+
+# Fichiers générés par R Markdown / knitr
+*.utf8.md
+*.knit.md
+*_files/
+*_cache/
+
+# Résultats des build / checks / paquets
+*.tar.gz
+.Rcheck/
+*_Rcheck/
+
+# Fichiers temporaires / éditeurs
+*~
+*.swp
+*.swo
+*.tmp
+
+# Binaires/objets compilés
+*.o
+*.so
+*.dll
+*.exe
+*.out
+*.obj
+
+# Logs
+*.log
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+
+# Python (si utilisé)
+__pycache__/
+*.py[cod]
+env/
+venv/
+.env
+
+# Node (si utilisé)
+node_modules/
+
+# Site / documentation générée
+_site/
+docs/_site/
+docs/.sass-cache
+
+# Shiny / déploiement
+rsconnect/
+
+# Divers (build LaTeX, outputs temporaires)
+*.aux
+*.toc
+*.lof
+*.lot
+*.fls
+*.gz
+*.bak

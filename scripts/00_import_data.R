@@ -45,8 +45,8 @@ weather <- read_csv(I(weather_csv))
 # summary()	Voir des stats (min, max, moyenne)
 # glimpse()	Voir la structure complète + types
 
-glimpse(flights)
-glimpse(airports)
-glimpse(airlines)
-glimpse(planes)
-glimpse(weather)
+# glimpse(flights)
+# glimpse(airports)
+# glimpse(airlines)
+# glimpse(planes)
+# glimpse(weather)

@@ -1,4 +1,6 @@
-source("scripts/01_Partie_mission1_q4.R")
+# s'assurer que le dossier de sortie existe
+dir.create("outputs/tableaux/missions1_question_5", recursive = TRUE, showWarnings = FALSE)
+
 ### Question 5
 
 ## 5.1 Nombre de vols par destination -------------------------

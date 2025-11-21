@@ -1,4 +1,4 @@
-source("scripts/01_Partie_mission1_q2.R")
+# source("scripts/01_Partie_mission1_q2.R")
 ### Question 3 : Destinations par compagnie ----
 
 ## 3.1 Nombre de destinations par compagnie ---------------------
